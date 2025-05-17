@@ -15,5 +15,5 @@ print(set_1)
 
 # remove 1st element 
 set2 = {1,2,3,4,5}
-set2.remove(1)
+set2.pop()
 print(set2)
